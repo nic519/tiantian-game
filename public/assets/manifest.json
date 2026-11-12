@@ -1,0 +1,19 @@
+{
+  "version": "local-restoration-1",
+  "original": {
+    "board-mint.png": "analysis/previews/071-map_twoyears.png; 744x950, 7 columns x 9 rows",
+    "board.png": "analysis/previews/072-map.png",
+    "gem.png": "analysis/previews/040-btn_diom.png",
+    "customer.png": "analysis/previews/079-npc1.png",
+    "scissors.png": "analysis/previews/039-prop_cut.png",
+    "chest.png": "analysis/previews/070-chest_narrow.png",
+    "wildcard.png": "analysis/previews/042-prop_rubikscube.png"
+  },
+  "replacement": {
+    "pastries": "Generated SVG drawings in src/game/art.ts; 3 chains with 7 levels and 2 producers",
+    "cafe": "Inline SVG illustration in src/game/ui.ts",
+    "audio": "Synthesized Web Audio notes in src/game/audio.ts"
+  },
+  "originalSdkIncluded": false,
+  "originalServicesRequired": false
+}

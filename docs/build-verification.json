@@ -1,0 +1,14 @@
+{
+  "nodeTests": 26,
+  "testsPassed": true,
+  "typecheckPassed": true,
+  "productionBuildPassed": true,
+  "standaloneBytes": 130572,
+  "standaloneSha256": "a27a94f256fa3f78a54b442112a014406f83e8994dbd751da688f45d73d20769",
+  "standaloneExternalAssets": false,
+  "realBrowserTested": false,
+  "browserRestriction": "HTTP listen EPERM; Chrome launch unavailable; browser tool rejected file:// protocol; no bypass attempted",
+  "review": "one fresh code review; 5 Important findings fixed with regressions",
+  "rendering": "Canvas 2D",
+  "originalBoardTexture": true
+}
